@@ -14,12 +14,10 @@
 - As a mechanic, I want to monitor real-time car diagnostics, so I can quickly identify and address issues.
 - As a mechanic, I want to communicate with clients through the platform, so I can provide updates and recommendations.
 - As a mechanic, I want to remotely check the location of my clients' cars, so I can send help in case of emergencies.
-- As a mechanic, I want to manage my clients' diagnostic histories, so I can provide personalized and efficient service.
 #### Car owner
 - As a client, I want to see my car's diagnostic data on the app, so I can stay informed about its condition.
 - As a client, I want to receive maintenance reminders, so I can keep my car in optimal condition.
 - As a client, I want to receive notifications of any detected issues, so I can promptly address potential problems.
-- As a client, I want to easily contact my mechanic through the app, so I can get immediate advice or schedule maintenance appointments.
 
 <br><br>
 <!-- Tech stack -->
