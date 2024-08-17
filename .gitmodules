@@ -1,0 +1,11 @@
+[submodule "AutoSync-Backend"]
+    path = AutoSync-Backend
+    url = https://github.com/majd-bitar/AutoSync-Backend.git
+
+[submodule "AutoSync-Mobile-Frontend"]
+    path = AutoSync-Mobile-Frontend
+    url = https://github.com/majd-bitar/AutoSync-Mobile-Frontend.git
+
+[submodule "AutoSync-Web-Frontend"]
+    path = AutoSync-Web-Frontend
+    url = https://github.com/majd-bitar/AutoSync-Web-Frontend.git
